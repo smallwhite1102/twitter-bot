@@ -1,4 +1,4 @@
-name: Auto tweet bot
+name: auto update playlist link bot
 
 on:
   schedule:
